@@ -17,12 +17,12 @@ Ubuntu server and Linux GUI Machines. We'll need 2 machines (at least for now) o
 
 | Project | Description |
 |---------|-------------|
-| [Virtualbox](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#virtual-box-setup) | General overview, tips and internal network.|
-| [context](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#networking-files-config-and-testing-ping) | Networking files configuration for the machines. | 
-| [zabbix server](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#ssh-config) | configuration in each machine if needed for the ssh.  |
-| [dashboard](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#ssh-permissions-configuration) | configuration and testing to assing permissions of connection ssh| 
-| [zabbix agent](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#troubleshooting) | Problems and solutions you might encounter during the realization of this lab| 
-| [troubleshooting](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#troubleshooting) | Problems and solutions you might encounter during the realization of this lab| 
+| [Virtualbox](https://github.com/DanielMunozParedes/NOC/blob/main/Series%201/Lab%201.0%20-%20Setting%20up%20NOC/README.md#virtualbox) | General overview, tips and internal network.|
+| [Context](https://github.com/DanielMunozParedes/NOC/blob/main/Series%201/Lab%201.0%20-%20Setting%20up%20NOC/README.md#context) | Whare we going to do and choosing the correct component | 
+| [Zabbix server](https://github.com/DanielMunozParedes/NOC/blob/main/Series%201/Lab%201.0%20-%20Setting%20up%20NOC/README.md#zabbix-server) | configuration of the zabbix server in ubuntu |
+| [Dashboard](https://github.com/DanielMunozParedes/NOC/blob/main/Series%201/Lab%201.0%20-%20Setting%20up%20NOC/README.md#dashboard) | dashboard setup| 
+| [Zabbix agent](https://github.com/DanielMunozParedes/NOC/blob/main/Series%201/Lab%201.0%20-%20Setting%20up%20NOC/README.md#zabbix-agent) | Configuration of the zabbix agent in kali| 
+| [troubleshooting](https://github.com/DanielMunozParedes/NOC/blob/main/Series%201/Lab%201.0%20-%20Setting%20up%20NOC/README.md#troubleshooting) | Problems and solutions you might encounter during the realization of this lab| 
 
 ---
 
