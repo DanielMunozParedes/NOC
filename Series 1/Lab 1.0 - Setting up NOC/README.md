@@ -169,7 +169,7 @@ systemctl enable zabbix-server zabbix-agent2 apache2
 
 ## Dashboard
 
-now go the a web browser and acces with the ip of the ubuntu server/zabbix
+now go to web browser and access with the ip of the ubuntu server/zabbix
 http://ip/zabbix/
 
 
