@@ -17,12 +17,12 @@ Ubuntu server and Linux GUI Machines. We'll need 2 machines (at least for now) o
 
 | Project | Description |
 |---------|-------------|
-| [Virtual box setup](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#virtual-box-setup) | General overview, tips and internal network.|
-| [Networking files config and testing ping](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#networking-files-config-and-testing-ping) | Networking files configuration for the machines. | 
-| [ssh configuration](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#ssh-config) | configuration in each machine if needed for the ssh.  |
-| [ssh permissions configuration](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#ssh-permissions-configuration) | configuration and testing to assing permissions of connection ssh| 
-| [Troubleshooting](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#troubleshooting) | Problems and solutions you might encounter during the realization of this lab| 
-
+| [Virtualbox](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#virtual-box-setup) | General overview, tips and internal network.|
+| [context](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#networking-files-config-and-testing-ping) | Networking files configuration for the machines. | 
+| [zabbix server](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#ssh-config) | configuration in each machine if needed for the ssh.  |
+| [dashboard](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#ssh-permissions-configuration) | configuration and testing to assing permissions of connection ssh| 
+| [zabbix agent](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#troubleshooting) | Problems and solutions you might encounter during the realization of this lab| 
+| [troubleshooting](https://github.com/DanielMunozParedes/LINUX-ADMIN/blob/main/Series%201/Lab%201.0%20-%20Internal%20Network%20Setup/README.md#troubleshooting) | Problems and solutions you might encounter during the realization of this lab| 
 
 ---
 
@@ -225,7 +225,7 @@ dont worry if it shows red, we havent install the agent on the kali
 *
 *
 
-# zabbix agent
+## zabbix agent
 
 
 on kali download the platform for agent, and choose the distro version for your machine
